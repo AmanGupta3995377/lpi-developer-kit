@@ -41,6 +41,10 @@ Level: Beginner
 
 The program generates a career roadmap with steps such as understanding current skills, making a plan, building projects, and improving regularly.
 
+## Explainability
+
+The roadmap is generated based on the user's current level. Beginners receive advice focused on fundamentals and regular practice. Intermediate users receive advice focused on projects and consistency. Advanced users receive advice focused on specialization, leadership, and higher growth.
+
 ## What I Learned
 
 I learned how to build an interactive Python project, use conditions, take user input, save files, and create a beginner-friendly agent project.
@@ -50,4 +54,11 @@ I learned how to build an interactive Python project, use conditions, take user 
 - Improve design and formatting
 - Save multiple user reports
 - Add more personalized suggestions
+
+
+## GitHub Repository
+https://github.com/AmanGupta3995377/lpi-developer-kit
+
+## Error Handling
+If the user enters an unexpected level, the program still provides guidance by default. The user can run the program again with correct input.
 
