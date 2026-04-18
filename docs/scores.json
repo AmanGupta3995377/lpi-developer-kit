@@ -302,5 +302,13 @@
     "max": 5,
     "pct": 100,
     "updated": "2026-04-18T15:11:56.281Z"
+  },
+  "ayush-sharma": {
+    "name": "Ayush Sharma",
+    "level": 2,
+    "score": 3,
+    "max": 5,
+    "pct": 60,
+    "updated": "2026-04-18T17:11:33.201Z"
   }
 }
