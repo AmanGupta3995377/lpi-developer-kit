@@ -44,6 +44,8 @@ How can I start using SMILE?
 
 The final answer is generated using responses from LPI tools. The program clearly lists which tools were used so the user can trace where the information came from.
 
+The linked repository has also been updated with stronger error handling and clearer source tracing based on reviewer feedback.
+
 ## What I Learned
 
 I learned how real AI agents connect with tools, how subprocess communication works, how to use Ollama with Python, and how to build explainable AI systems.
